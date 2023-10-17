@@ -1,0 +1,16 @@
+{
+  "name": "202309-w2ch2-alejandro-irastorza",
+  "version": "1.0.0",
+  "description": "Week 2 - Challenge 2 - ISDI CODERS MADRID BOOTCAMP",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
